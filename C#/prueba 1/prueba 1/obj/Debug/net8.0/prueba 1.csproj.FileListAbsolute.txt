@@ -1,0 +1,28 @@
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.exe
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.deps.json
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.runtimeconfig.json
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.pdb
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.AssemblyInfoInputs.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.AssemblyInfo.cs
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\refint\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.pdb
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.genruntimeconfig.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\prueba 1\prueba 1\obj\Debug\net8.0\ref\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.exe
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.deps.json
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.runtimeconfig.json
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\bin\Debug\net8.0\prueba 1.pdb
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.AssemblyInfoInputs.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.AssemblyInfo.cs
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\refint\prueba 1.dll
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.pdb
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\prueba 1.genruntimeconfig.cache
+C:\Users\maria\Documents\Aplicaciones Dylan\HERRAMIENTAS DE PROGRAMACION\TALLER 2\C#\prueba 1\prueba 1\obj\Debug\net8.0\ref\prueba 1.dll
