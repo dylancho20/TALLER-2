@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taller 2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>TALLER 2 HERRAMIENTAS DE PROGRAMACION</h1>
+    </header>
+    <hr>
+    <hr>
+    <P>Actividad de investigacion</P>
+    <hr>
+    <hr>
+    <section class="container">
+        <article class="post">
+            <h3>Punto 1</h3>
+            <h4>¿Que es el Poliformismo?</h4>
+            <p>El polimorfismo en programación es un concepto que se refiere a la capacidad de un objeto para tomar varias formas o comportarse de diferentes maneras según el contexto en el que se utiliza. Esto significa que un mismo método o función puede comportarse de manera distinta dependiendo del tipo de objeto al que se aplica.</p>
+            <tbody>
+                <tr>
+                <td><img src="img/imgPoliformismo.webp" width="400"></td>
+                <hr>
+                <hr>
+                <td><img src="img/imgpoliformismo2.gif" width="400"></td>
+                </tr>
+            </tbody>
+        </article>      
+        <article class="post">
+            <h3>Punto 2</h3>
+            <h4>Tipos de Poloformismo</h4>
+            <p> <li>Polimorfismo de sobrecarga (Overloading): <br>Se refiere a tener múltiples funciones o métodos con el mismo nombre pero con diferentes parámetros. Esto permite llamar a una función utilizando diferentes argumentos y que el compilador seleccione automáticamente la versión correcta según los tipos de datos proporcionados.</li> </p>
+            <p> <li>Polimorfismo de sobreescritura (Override): <br>Este tipo de polimorfismo se aplica en la programación orientada a objetos. Ocurre cuando una clase hija redefine un método que ha heredado de su clase padre. La nueva implementación en la clase hija reemplaza la implementación original de la clase padre para ese método.</li></p>
+            <p> <li>Polimorfismo paramétrico: <br> También conocido como polimorfismo genérico, es una característica que permite la creación de clases o métodos que pueden trabajar con distintos tipos de datos sin especificar estos tipos de manera explícita. Esto se logra utilizando parámetros genéricos que se sustituyen por tipos específicos en tiempo de compilación.</li></p>
+            <p> <li> Polimorfismo ad hoc (ad hoc polymorphism): <br> Este tipo de polimorfismo se refiere a la sobrecarga de operadores y funciones, donde el comportamiento de una función u operador varía según el tipo de datos con el que se utiliza. Por ejemplo, en algunos lenguajes, el operador + puede ser utilizado para sumar números enteros, flotantes o concatenar cadenas de texto.</li></p>
+            <p> <li> Polimorfismo de inclusión (Inclusion polymorphism): <br> Es la capacidad de tratar objetos de clases derivadas como objetos de su clase base durante la ejecución del programa. Esto se logra a través de la herencia y el uso de punteros o referencias a la clase base para acceder a los métodos y propiedades de las clases derivadas.</li></p>
+        </article>
+        <article class="post">
+            <h3>Punto 3</h3>
+            <h4>Ejemplo de Poliformismo de sobrecarga</h4>
+            <tbody>
+                <tr>
+                    <td><img src="img/ejemplo de Sobrecarga.png" width="400"></td>
+                </tr>
+            </tbody>
+        </article>     
+        <article class="post">
+            <h3>Punto 4</h3>
+            <h4>¿Que es la sobreescritura de metodos?</h4>
+            <p>La sobreescritura de métodos es un concepto fundamental en la programación orientada a objetos que permite a una clase hija proporcionar una implementación específica para un método que ha heredado de su clase padre. Esto significa que la clase hija puede redefinir (o sobrescribir) el comportamiento de un método de la clase padre para adaptarlo a sus propias necesidades. <br> <br> Cuando una clase hija sobrescribe un método de la clase padre, la firma del método (nombre, tipo de retorno y lista de parámetros) debe ser la misma que la del método original en la clase padre. La clase hija puede modificar el comportamiento del método o agregar funcionalidad adicional, pero debe mantener la misma firma para garantizar la coherencia y compatibilidad con el polimorfismo.</p>
+            <P>Aqui un ejemplo:</P>
+            <br>
+            <tbody>
+                <tr>
+                    <td><img src="img/ejemplo de Sobreescritura de métodos.png" width="400"></td>
+                </tr>
+            </tbody>
+        </article>
+        <article class="post">    
+            <h3>Punto 5</h3>
+            <h4>¿Que beneficios ofrece el polimorfismo a la POO?</h4>
+            <p> <li> Reutilización del código: <br>Permite reutilizar métodos y funciones al tratar objetos de diferentes clases de manera uniforme. Esto reduce la duplicación de código y facilita el mantenimiento.</li></p>
+            <p><li>Flexibilidad y extensibilidad: <br> Al utilizar el polimorfismo, el código se vuelve más flexible y extensible. Se pueden agregar nuevas clases y métodos sin necesidad de cambiar el código existente, siempre y cuando sigan las mismas interfaces o herencias.</li></p>
+            <p><li>Facilita la implementación de interfaces y abstracciones: <br> El polimorfismo permite trabajar con interfaces y abstracciones, lo que mejora la modularidad y la estructura del código. Por ejemplo, se pueden definir interfaces genéricas y luego implementarlas de manera específica en varias clases.</li></p>
+            <p><li>Encapsulamiento y ocultamiento de información: <br> Al tratar los objetos a través de sus interfaces y comportamientos comunes, el polimorfismo ayuda a mantener el principio de encapsulamiento, ya que oculta la implementación específica de las clases y solo expone las funcionalidades necesarias.</li></p>
+            <p><li>Facilita el uso de herencia y relaciones de clases: <br> El polimorfismo es esencial en la jerarquía de clases y la herencia, ya que permite que las clases hijas proporcionen implementaciones específicas para los métodos heredados de las clases padres.</li></p>
+            <p><li>Código más legible y mantenible: <br> Al utilizar polimorfismo, el código tiende a ser más claro y legible, ya que se pueden tratar objetos de diferentes tipos de manera coherente y comprensible. Esto facilita el mantenimiento y la colaboración entre desarrolladores.</li></p>
+        </article>
+        <article class="post">  
+            <h3>Punto 6</h3>
+            <h4>Tres ejemplos de polimorfismo</h4>
+            <p><li>Polimorfismo de sobreescritura (override): <br> Un ejemplo típico es el método Draw en una jerarquía de clases relacionadas con figuras geométricas. Cada clase (como Circle, Rectangle, Triangle) podría sobrescribir el método Draw para dibujar la forma correspondiente de manera específica.</li></p>
+            <p><li>Polimorfismo de sobrecarga (overloading): <br> En un sistema de gestión de archivos, se podría tener un método Copy sobrecargado que acepte diferentes tipos de parámetros, como Copy(string sourcePath, string destinationPath) para copiar archivos, Copy(Directory sourceDirectory, Directory destinationDirectory) para copiar directorios, y así sucesivamente.</li></p>
+            <p><li>Polimorfismo de inclusión (Inclusion polymorphism): <br> En un programa de gestión de recursos humanos, podrías tener una lista de empleados de diferentes tipos (como EmpleadoBase, EmpleadoTemporario, EmpleadoContratado). Al tratar a todos estos empleados como objetos de la clase base Empleado, se puede utilizar polimorfismo para acceder a métodos comunes como CalcularSalario(), pero cada tipo de empleado podría tener su propia implementación de este método.</li></p>
+        </article>    
+    </section>
+</body>
+</html>
